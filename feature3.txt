@@ -1,4 +1,4 @@
-<<<<<<< HEAD
-this is f3
 
+
+much more work
 >>>>>>> e3be904 (add f3 more work)
