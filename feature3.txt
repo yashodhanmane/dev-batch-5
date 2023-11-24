@@ -1,1 +1,4 @@
-this is friday party much more work
+<<<<<<< HEAD
+this is f3
+
+>>>>>>> e3be904 (add f3 more work)
